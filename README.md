@@ -88,12 +88,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alexandrecarloss/alexandrecarloss/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVib2MydG54dnpncGR3NjZxaGxwY2oxNjhlbG55OXRvM3RhYmN0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif"  />
 </div>
