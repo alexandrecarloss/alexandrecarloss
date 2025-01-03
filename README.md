@@ -96,6 +96,6 @@
 
 ###
 
-![Snake animation](https://github.com/alexandrecarloss/alexandrecarloss/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/alexandrecarloss/alexandrecarloss/output/snake.svg" alt="Snake animation" />
 
 ###
