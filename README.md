@@ -96,7 +96,6 @@
 
 ###
 
-![Snake animation](https://github.com/alexandrecarloss/alexandrecarloss/blob/dist/github-contribution-grid-snake.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexandrecarloss/alexandrecarloss/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexandrecarloss/alexandrecarloss/output/github-contribution-grid-snake-dark.svg">
