@@ -2,15 +2,14 @@
 
 # Hi, I'm Carlos Alexandre 👋
 
-### Full Stack Web Developer · M.Sc. Student in Computer Science at UFAM
+### Full Stack Web Developer
 
-I build scalable, modern web applications connecting **responsive frontends, robust REST APIs, cloud databases, and DevOps automation**.
+I build scalable, modern web applications connecting **responsive frontends and robust REST APIs**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Alexandre-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrecarloss)
 [![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karurosualexandresouza123@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-alexandrecarloss-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexandrecarloss)
 
-<!-- Texto Animado / Cargo e Foco em Destaque -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=2C9DF7&center=true&vCenter=true&width=760&lines=Full+Stack+Web+Development+%7C+React+%2B+Vue.js;Node.js+%7C+Python%2FDjango+%7C+Java%2FSpring+Boot;APIs+RESTful+%7C+Docker+%7C+CI%2FCD+%7C+PostgreSQL" alt="Typing introduction" />
 
 </div>
