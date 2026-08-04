@@ -35,7 +35,7 @@
   <a href="https://www.youtube.com/@CADEV-k1o" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/alexandre_carlos00/profilecard/?igsh=MWppMDh5dHJ3MjJ2dg==" target="_blank">
+  <a href="https://www.instagram.com/alexandrecarlosdev?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:karurosualexandresouza1234@gmail.com" target="_blank">
