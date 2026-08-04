@@ -7,6 +7,7 @@
 I build scalable, modern web applications connecting **responsive frontends and robust REST APIs**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Alexandre-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrecarloss)
+[![Linktree](https://img.shields.io/badge/Linktree-Carlos_Alexandre-1DE9B6?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/alexandrecarloss)
 [![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karurosualexandresouza123@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-alexandrecarloss-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexandrecarloss)
 
@@ -121,6 +122,7 @@ I'm a Full Stack Web Developer based in Manaus, Brazil. Graduated in **Systems A
 
 <div align="center">
 
+[![Linktree](https://img.shields.io/badge/All_Links_in_One-Linktree-1DE9B6?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/alexandrecarloss)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrecarloss)
 [![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karurosualexandresouza123@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CADEV-k1o)
