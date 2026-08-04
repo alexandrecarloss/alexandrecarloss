@@ -66,11 +66,9 @@ I'm a Full Stack Web Developer based in Manaus, Brazil. Graduated in **Systems A
 
 | Project | Description | Core Technologies |
 |---|---|---|
-| **Factory Management** | Microservices architecture with Docker, automated CI/CD pipelines, and resource optimization algorithms. | Vue.js 3, Docker, PostgreSQL, GitHub Actions, Vitest |
-| **Strategeos** | Full-Stack Kanban project management platform with real-time productivity dashboards. | Django REST, Vue.js, MySQL, Chart.js, Scrum |
-| **SmartMail AI** | Intelligent system for corporate email classification, triage, and automated response pipeline. | Python, FastAPI, NLP, Generative AI, Cloud Deploy |
-
----
+| 🤖 [**SmartMail AI**](https://github.com/alexandrecarloss/desafio-email-ai) | API e interface para triagem inteligente de e-mails corporativos. Combina ML estatístico local (TF-IDF + Naive Bayes) e LLM (Gemini) em um pipeline híbrido com fallback e tom de resposta automatizado. | Python, FastAPI, Scikit-learn, Google Gemini API, Tailwind CSS, Jinja2 |
+| 🛡️ [**Spring Security Hub**](https://github.com/alexandrecarloss/spring-security) | Ecossistema completo de autenticação e autorização stateless. Implementa login híbrido (Local + Google OAuth2/OIDC), tokens JWT assinados com chaves assimétricas RSA e RBAC. | Java 21, Spring Boot 4, Spring Security 7, React 19, TypeScript, MySQL, Docker |
+| 🏭 [**Factory Management**](https://github.com/alexandrecarloss/factory-project) | Sistema de gestão de produção industrial focado em otimização de insumos para maximização de lucros, conversão de moedas em tempo real e suporte a i18n. | Java 21, Spring Boot 4, Vue.js 3, PostgreSQL, Tailwind CSS, Docker |
 
 ## 📊 GitHub Activity
 
